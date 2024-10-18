@@ -1,0 +1,5 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+polars==1.5.0
+python-dotenv==1.0.1
+boto3==1.35.19
+
